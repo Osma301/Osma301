@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osma301
 - 👀 I’m interested in ... HTML 5 , CSS3 , JAVASCRIPT , MySQL , REACT , Mongo DB, in evething >:D
-- 🌱 I’m currently learning ... CSS3 , JAVA SCRIPT , MySQL , RECT , Mongo DB , i love coding
+- 🌱 I’m currently learning ... CSS3 , JAVA SCRIPT , MySQL , REACT , Mongo DB , i love coding
 - 💞️ I’m looking to collaborate on ... amazon or twitter
 - 📫 How to reach me ... my gmail: osmando301@gmail.com, my twitter:https://twitter.com/MarinOsmando my linkedin:https://www.linkedin.com/in/osmando-marin-336b87237/
 
