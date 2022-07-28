@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @Osma301
-- 👀 I’m interested in ... HTML 5 , CSS3 , JAVASCRIPT , MySQL , REACT , Mongo DB, in evething
-- 🌱 I’m currently learning ... CSS3 , JAVA SCRIPT , MySQL , REACT , Mongo DB , i love coding
-- 💞️ I’m looking to collaborate on ... amazon or twitter
-- 📫 How to reach me ... my gmail: osmando301@gmail.com, my twitter:https://twitter.com/MarinOsmando my linkedin:https://www.linkedin.com/in/osmando-marin-336b87237/
 
-i am 21 years old and my dream is to become a software engineer and work for the future.. 
-<!---
-Osma301/Osma301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Óla! Eu sou o Osmando 😁 | Hi am Osmando 😁
+
+[![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmando-marin-336b87237/)
+[![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarinOsmando)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osmandoyjohanna/)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osma301&show_icons=true&theme=dark)
+
+### Tecnologias que eu uso | Technologies that I use
+<div style="display inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<div><br/>
+
+APAIXONADO POR TECNOLOGIA 😁| I LOVE TECHNOLOGY 😁
+
+
+PROCURANDO MEU PRIMER EMPREGO|LOOKING FOR MY FIRST JOB
+
+
+
+
